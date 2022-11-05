@@ -29,4 +29,4 @@ ________________________________________________________________________________
 
 ### Lab 4 :incoming_envelope:
 
-The program that implements the functions of the SMTP client
+The program that implements the functions of the SMTP client.
